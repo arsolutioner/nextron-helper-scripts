@@ -210,7 +210,6 @@ nofserrors: true   # Don't print an error for non-existing directories selected 
 nocsv: true        # Don't create CSV output file with all suspicious files
 noscanid: true     # Don't print a scan ID at the end of each line (only useful in SIEM import use cases)
 nothordb: true     # Don't create a local SQLite database for differential analysis of multiple scans
-path: C:\
 "@
 
 # FULL
